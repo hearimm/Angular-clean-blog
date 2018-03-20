@@ -15,9 +15,9 @@ A clean Bootstrap blog theme develop by Angular
 
 
 ## TODO
-1. Contact validation 확인
+1. Contact validation 확인 (10%)
 1. 메일 기능 껍데기 추가
-2. 포스트 mock data 연동
+2. 포스트 mock data 연동 (10%)
 3. 포스트 작성 기능
 3. 마크다운 포스트 작성 기능
 4. 마크다운 포스트 연동 view
