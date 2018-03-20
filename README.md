@@ -1,4 +1,18 @@
-# MyBlogApp
+# Angular Clean Blog
+
+A clean Bootstrap blog theme develop by Angular
+
+### [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
+
+[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+
+## Preview
+
+[![Clean Blog Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://blackrockdigital.github.io/startbootstrap-clean-blog/)
+
+**[View Live Preview - not angular](https://blackrockdigital.github.io/startbootstrap-clean-blog/)**
+
+
 
 ## TODO
 1. 메일 기능 껍데기 추가
@@ -33,3 +47,8 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Copyright and License
+
+Copyright 2018 Hearimm. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
