@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { ContactMe } from '../../assets/js/contact_me.js';
+import { Component, OnInit, Input } from '@angular/core';
+import {Email} from '../email';
 
 @Component({
   selector: 'app-contact',
@@ -8,6 +8,7 @@ import { ContactMe } from '../../assets/js/contact_me.js';
 })
 export class ContactComponent implements OnInit {
 
+  email = new Email('', '', '', '');
   constructor() { }
 
   ngOnInit() {
